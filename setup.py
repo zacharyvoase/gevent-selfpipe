@@ -15,6 +15,5 @@ setup(
     package_dir={'': 'lib'},
     install_requires=[
         'gevent>=0.13.6',
-        'nose==1.1.2',
     ],
 )
