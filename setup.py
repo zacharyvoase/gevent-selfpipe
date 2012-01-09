@@ -6,7 +6,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='gevent-selfpipe',
-    version='0.0.2',
+    version='0.0.3',
     description='Hack to enable gevent-based scheduling of blocking calls.',
     author='Zachary Voase',
     author_email='z@zacharyvoase.com',
